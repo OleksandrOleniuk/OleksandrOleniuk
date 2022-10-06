@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the victory of Ukraine<br>🌱 I’m currently learning Portuguese<br>💬 Ask me about ngrx-forms<br>⚡ I am 22
+🔭 I’m currently working on the victory of Ukraine 🇺🇦<br>🌱 I’m currently learning Portuguese<br>💬 Ask me about ngrx-forms<br>⚡ I am 22
 
 
 ## 🌐 Socials:
