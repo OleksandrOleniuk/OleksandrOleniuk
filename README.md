@@ -1,9 +1,15 @@
 # 💫 About Me:
+
 🚀 Full Stack Engineer with 5+ years of experience delivering high-quality web applications in remote, agile environments.
+
 🧱 Frontend & Backend Expertise: Angular, NestJS, MongoDB, TypeScript, RxJS, NgRx.
+
 🔗 API & Integrations: Designed scalable RESTful APIs and integrated payment systems including Stripe, Liqpay, and PaymentWall.
+
 🧪 Testing & Quality: Automated E2E testing with Playwright to ensure reliability and performance.
+
 📦 Architecture & Reusability: Led front-end architecture, built reusable Angular libraries, and applied Domain-Driven Design (DDD).
+
 🤝 Team Collaboration: Worked closely with backend teams and mentored junior developers to promote clean, maintainable codebases.
 
 ## 🌐 Socials:
