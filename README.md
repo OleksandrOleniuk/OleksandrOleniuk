@@ -1,6 +1,10 @@
 # 💫 About Me:
-🇺🇦 I’m currently working on the victory of Ukraine<br>🌱 I’m currently learning Portuguese<br>💬 Ask me about ngrx-forms<br>⚡ I am 24
-
+🚀 Full Stack Engineer with 5+ years of experience delivering high-quality web applications in remote, agile environments.
+🧱 Frontend & Backend Expertise: Angular, NestJS, MongoDB, TypeScript, RxJS, NgRx.
+🔗 API & Integrations: Designed scalable RESTful APIs and integrated payment systems including Stripe, Liqpay, and PaymentWall.
+🧪 Testing & Quality: Automated E2E testing with Playwright to ensure reliability and performance.
+📦 Architecture & Reusability: Led front-end architecture, built reusable Angular libraries, and applied Domain-Driven Design (DDD).
+🤝 Team Collaboration: Worked closely with backend teams and mentored junior developers to promote clean, maintainable codebases.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sania.oleniuk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleksandr-oleniuk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wWayong) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12857970) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wayonggg) 
