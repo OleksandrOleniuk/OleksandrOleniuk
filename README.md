@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 Full Stack Engineer with 5+ years of experience delivering high-quality web applications in remote, agile environments.
+🚀 Full Stack Engineer with 6+ years of experience delivering high-quality web applications in remote, agile environments.
 
 🧱 Frontend & Backend Expertise: Angular, NestJS, MongoDB, TypeScript, RxJS, NgRx.
 
