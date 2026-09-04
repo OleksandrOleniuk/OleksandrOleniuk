@@ -2,8 +2,6 @@
 
 ### Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OleksandrOleniuk" alt="OleksandrOleniuk" /></a> </p>
-
 - 🔭 I'm currently working on **typescript full stack projects**
 
 - 🌱 I'm currently learning **linux and cloud platforms**
